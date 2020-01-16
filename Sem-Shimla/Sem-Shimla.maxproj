@@ -1,8 +1,8 @@
 {
-	"name" : "GlitchyEnvelopes",
+	"name" : "Sem-Shimla",
 	"version" : 1,
 	"creationdate" : 3662018053,
-	"modificationdate" : 3662018842,
+	"modificationdate" : 3662021711,
 	"viewrect" : [ 25.0, 104.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
@@ -26,6 +26,11 @@
 		"media" : 		{
 			"glitchSprite.png" : 			{
 				"kind" : "imagefile",
+				"local" : 1
+			}
+,
+			"Juice - Catch A Groove (ver.1).wav" : 			{
+				"kind" : "audiofile",
 				"local" : 1
 			}
 
