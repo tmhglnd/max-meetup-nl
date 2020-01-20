@@ -2,7 +2,7 @@
 	"name" : "Sem-Shimla",
 	"version" : 1,
 	"creationdate" : 3662018053,
-	"modificationdate" : 3662023939,
+	"modificationdate" : 3662109359,
 	"viewrect" : [ 25.0, 104.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
@@ -34,7 +34,7 @@
 				"local" : 1
 			}
 ,
-			"Sphere.obj" : 			{
+			"sphereTextured.obj" : 			{
 				"kind" : "model",
 				"local" : 1
 			}
@@ -44,6 +44,14 @@
 		"code" : 		{
 			"envelopeFollower.gendsp" : 			{
 				"kind" : "gendsp",
+				"local" : 1
+			}
+
+		}
+,
+		"other" : 		{
+			"sphereTextured.mtl" : 			{
+				"kind" : "file",
 				"local" : 1
 			}
 
