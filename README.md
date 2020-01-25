@@ -7,6 +7,7 @@ The NL Max Community repository. This repository includes a collection of patche
 - [Meetups](#meetups)
 - [Community](#community-members)
 - [Interesting](#interesting-sites)
+- [Meetup Ideas](#ideas--suggestions)
 - [Contribute](#contribute)
 - [Code of Conduct](#code-of-conduct)
 
@@ -56,6 +57,16 @@ The NL Max Community repository. This repository includes a collection of patche
 **tips'n'tricks**
 
 - [Max Toolbox](https://github.com/natcl/maxtoolbox)
+
+## Ideas & suggestions
+
+- More small live tutorials
+- Ask the community what they would like to discuss/learn and find people that would like to present based on that
+- Do a small patch-a-thon
+- Put out a challenge to work with only a subset of max objects
+- Live coding with max short challenges (6 minute patching with timer)
+- Some live performances instead of presentations (maybe as a different type of event)
+- *...any ideas? [edit this readme](#contribute)*
 
 ## Contribute
 
