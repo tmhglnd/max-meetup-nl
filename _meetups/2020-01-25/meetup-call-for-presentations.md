@@ -10,6 +10,7 @@ I'm planning on organizing a Max-Meetup on January 25 at the Havenloods in Utrec
 
 We will ask €5 entrance to cover the rent for the space and have a small fee available for the people presenting. Drinks will be around €2.
 
+```
 14h30 walk-in / introductions
 ---------------------
 15h00 presentation 1
@@ -26,5 +27,6 @@ We will ask €5 entrance to cover the rent for the space and have a small fee a
 18h00 patching-workspace (or live coding jam-session)
 ---------------------
 19h00 end (drinks/food/more patching)
+```
 
 Feel free to send me a message if you are interested in presenting your project. In my opinion the presentation should also have a part where you actually show your patch and the contents of it.
