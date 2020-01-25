@@ -7,10 +7,11 @@ Find my work online
 - [Instagram](http://www.instagram.com/tmhglnd)
 - [Facebook](http://www.facebook.com/tmhglnd)
 
-- [Visual](http://www.vimeo.com/timohoogland)
-- [Music](http://timohoogland.bandcamp.com)
+- [Visual (Vimeo)](http://www.vimeo.com/timohoogland)
+- [Visual (Youtube)](https://www.youtube.com/tmhglnd)
+- [Music (Bandcamp)](http://timohoogland.bandcamp.com)
+- [Music (Soundcloud)](http://soundcloud.com/tmhglnd)
 
-- [Support my work](http://www.patreon.com/timohoogland)
-- [Download Patches](http://www.gumroad.com/tmhglnd)
-
-- [Github](http://github.com/tmhglnd)
+- [Support my work (Patreon)](http://www.patreon.com/timohoogland)
+- [Download Code (Gumroad)](http://www.gumroad.com/tmhglnd)
+- [Download Code (Github)](http://github.com/tmhglnd)
