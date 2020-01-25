@@ -6,6 +6,10 @@ A collection of patches and code from the Max User Meetup NL
 
 Fork the repository. Add a folder of the format `firstname-lastname`. Add your project, patchers, code, assets to that folder. Make a pull request.
 
+## Community members and websites
+
+http://www.deceasedunfinishedprojects.nl
+
 ## license
 
 The MIT License
