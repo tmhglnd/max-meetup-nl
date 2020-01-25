@@ -61,11 +61,11 @@ The NL Max Community repository. This repository includes a collection of patche
 
 **Add your own patches?**
 
-Create a Github account. Fork the repository. Add a folder of the format `firstname-lastname`. Add your project, patchers, code, assets to that folder. Make add a description to your commit and make a (https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests)[pull request].
+Create a Github account. Fork the repository. Add a folder of the format `firstname-lastname`. Add your project, patchers, code, assets to that folder. Make add a description to your commit and make a [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests).
 
 **Add a member or site?**
 
-Create a Github account. Click the README.md file and proceed to edit (Github forks the project for you). Put in the text you want to have added, make adjustments to other text if you think something needs to be changed. Check the result in the `Preview changes`. Afterwards add a description to your commit and create a (https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests)[pull request] by clicking "propose file change".
+Create a Github account. Click the README.md file and proceed to edit (Github forks the project for you). Put in the text you want to have added, make adjustments to other text if you think something needs to be changed. Check the result in the `Preview changes`. Afterwards add a description to your commit and create a [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests) by clicking "propose file change".
 
 ## Code of conduct
 
