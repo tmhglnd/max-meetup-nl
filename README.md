@@ -51,7 +51,6 @@ The NL Max Community repository. This repository includes a collection of patche
 - [Deceased Unfinished Projects](http://www.deceasedunfinishedprojects.nl)
 - [TMHGLND Max Patches](http://gumroad.com/tmhglnd)
 - [Jaromir JDevices (M4L)](https://gumroad.com/jaromir)
-
 - *...missing something? [edit this readme](#contribute)*
 
 **tips'n'tricks**
