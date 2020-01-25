@@ -8,7 +8,7 @@ Fork the repository. Add a folder of the format `firstname-lastname`. Add your p
 
 ## Community members and websites
 
-http://www.deceasedunfinishedprojects.nl
+- (Deceased and unfinished projects)[http://www.deceasedunfinishedprojects.nl]
 
 ## license
 
