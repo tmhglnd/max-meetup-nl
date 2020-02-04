@@ -41,6 +41,7 @@ The NL Max Community repository. This repository includes a collection of patche
 **learn**
 
 - [Jitter resources list](https://docs.google.com/document/d/1pIty79tq4_-kfUpO6i_VDM01hVBZKL4zbqcEcJZnUqQ/edit)
+- [Gen~ resources list](https://docs.google.com/document/d/15qRSqkpagNAhyAEaM_l_P_nzr-frrOT16ctZvaSkB0o/edit?ts=5e31c7f8)
 - [Places to learn Max](https://cycling74.com/places-to-learn-max)
 - [Tutorials - Dude837](https://www.youtube.com/user/dude837)
 - [Tutorials - Amazing Max Stuff](https://www.youtube.com/user/PolloZombie666/videos)
